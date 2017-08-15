@@ -1,0 +1,14 @@
+{
+  "name": "demo-npm-module-tanmay",
+  "version": "1.0.0",
+  "description": "Demo NPM module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Demo"
+  ],
+  "author": "Tanmay Awasekar <tanmayawasekar@gmail.com>",
+  "license": "ISC"
+}
